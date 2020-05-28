@@ -13,3 +13,5 @@ Một vài mini projects kết thúc khóa học Essential Mathematics, Statisti
 
 - [Data](https://github.com/sonhai1209/Essential_Data_Science_Course_VIASM/blob/master/loan.rar)
 
+Còn tiếp....
+
